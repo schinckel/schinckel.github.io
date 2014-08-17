@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 1222
+layout: post
+title: Git vs. svn
+time: "19:09:45"
+date: 2007-07-24 19:09:45
+tags: 
+- programming
+wordpress_url: http://schinckel.net/2007/07/24/git-vs-svn/
+---
+I'd love to move to Git, even though I've really only just started using svn. There's only one thing holding me back: the fact that all of the tools I use support Subversion, but not Git. I'd probably settle for just one non-CLI tool, like SCPlugin. I've even downloaded the source code, and I will have a bit of a look at how that works, and if it is possible to translate that into Git-speak. I really like how Komodo and Xcode will also display the SCM status of a file - it's just those little extra features that make it kinda easy to remember to commit changes from time to time. 

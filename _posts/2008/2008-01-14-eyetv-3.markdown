@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 1346
+layout: post
+title: EyeTV 3
+time: "23:29:51"
+date: 2008-01-14 23:29:51
+tags: 
+- eyetv
+wordpress_url: http://schinckel.net/2008/01/14/eyetv-3/
+---
+Apparently, EyeTV 3 will be released today (Tuesday). I did read somewhere that this version will be a fully-fledged media centre, but maybe that's just rumour and innuendo.
+
+I hope not. I'd love it to access and display data from iTunes, since I've painstakingly put most of my pre-EyeTV (and saved-from-EyeTV) media into iTunes.

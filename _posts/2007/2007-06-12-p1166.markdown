@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 1166
+layout: post
+title: Parallels "Edit file in Mac Apps"
+time: "21:51:41"
+date: 2007-06-12 21:51:41
+tags: 
+- asides
+wordpress_url: http://schinckel.net/2007/06/12/p1166/
+---
+There's a fairly neat feature in the new Parallels: you can edit a file from your Windows installation in a native OS X application. That is, when you "Open Withâ€¦" under Windows, Mac Apps (but possibly only those in /Applications) are available as opening tools. Very cool. 
+
+[Steven Johnson][1] • [Steven Johnson][2] • [SALT - Seminars About Long Term Thinking][3]
+
+   [1]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?songTerm=Steven+Johnson&artistTerm=Steven+Johnson
+   [2]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?artistTerm=Steven+Johnson
+   [3]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?albumTerm=SALT+-+Seminars+About+Long+Term+Thinking&artistTerm=Steven+Johnson
+

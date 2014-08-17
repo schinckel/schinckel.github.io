@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 640
+layout: post
+title: "{is_aside}"
+time: "18:57:38"
+date: 2006-02-01 18:57:38
+tags: 
+- blogsome
+- asides
+wordpress_url: http://schinckel.net/2006/02/01/is_aside/
+---
+Blogsome has a Smarty Tag called `{is_aside}`. This is a test of that. 

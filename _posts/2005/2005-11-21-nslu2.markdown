@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 572
+layout: post
+title: NSLU2
+time: "17:54:37"
+date: 2005-11-21 17:54:37
+tags: 
+- blogging
+- nslu2
+wordpress_url: http://schinckel.net/2005/11/21/nslu2/
+---
+I have a Google Alert for the string "NSLU2". Just now, I had a new alert, and my NSLU2 category has just made it into the top 20... Yay! 

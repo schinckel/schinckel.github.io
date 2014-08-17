@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 832
+layout: post
+title: Die Teddy!
+time: "18:18:33"
+date: 2006-03-29 18:18:33
+tags: 
+- humour
+- myths-and-legends
+- asides
+wordpress_url: http://schinckel.net/2006/03/29/die-teddy/
+---
+Found this one on [Boing Boing][1], and just had to pop it up here: ![][2] Apparently handmade by [Patricia Waller][3]. 
+
+   [1]: http://www.boingboing.net
+   [2]: /images/unicornwaller.jpg
+   [3]: http://www.patriciawaller.com/images.html
+

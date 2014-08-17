@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 62
+layout: post
+title: Dorkstar!
+time: "23:39:31"
+date: 2005-02-10 23:39:31
+tags: 
+- general
+wordpress_url: http://schinckel.net/2005/02/10/dorkstar/
+---
+[The Wave Magazine - The Bay Area's Best Entertainment Magazine... Ever.][1]: http://www.thewavemag.com/pagegen.php?pagename=article&articleid=24184 Yay! I've only scored 5 of the possible 10 top dorkiest things to do - of course, most of them I don't do anymore. Bonus points for anyone who can guess which 5 I have done at some point in my life...not that anyone reads this thing, anyway. 
+
+   [1]: http://www.thewavemag.com/pagegen.php?pagename=article&articleid=24184
+

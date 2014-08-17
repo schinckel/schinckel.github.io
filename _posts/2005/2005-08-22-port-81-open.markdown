@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 379
+layout: post
+title: Port 81 Open
+time: "20:40:07"
+date: 2005-08-22 20:40:07
+tags: 
+- general
+wordpress_url: http://schinckel.net/2005/08/22/port-81-open/
+---
+Okay, whilst Optus are blocking Port 80 Traffic (That's a Webserver to most folks), port 81 seems to be open. That is, I could access `211.29.1.x:81`. They have also left open port 8080, which is interesting, as this is the default alternate http port. What I need to get working now is rinetd, or some sort of port forwarding so I can point port 8080, or another port, at my NSLU2 webserver. 

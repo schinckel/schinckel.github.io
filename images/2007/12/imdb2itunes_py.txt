@@ -1,0 +1,114 @@
+#! /usr/bin/python
+
+"""
+$Author: matt $
+$Date: 2007-12-24 11:42:45 +1030 (Mon, 24 Dec 2007) $
+$Rev: 4 $
+
+"""
+
+__TODO__ = """
+Get data from: movie['cover url'], save into file, 
+and use for artwork (or add somehow).
+
+Allow for user to get info about matches and make a better decision.  Perhaps links to the IMDb pages?
+
+Better data for Comment.
+"""
+
+import appscript
+import imdb
+import os
+
+# Note where you have stored CocoaDialog - mine is in /Applications/Utilities
+CD = "/Applications/Utilities/CocoaDialog.app/Contents/MacOS/CocoaDialog"
+dropdown = "standard-dropdown"
+
+# You'll probably want to use app('itunes') for a local machine.
+itunes = appscript.app(url='eppc://jens.local/itunes')
+# For me, the third playlist is Movies.  Could check better, but I'm lazy.
+movies = itunes.playlists()[3].tracks()
+IMDb = imdb.IMDb()
+
+def selectMatch(track):
+    "Create a dialog box with a dropdown box with all matching titles."
+    command = [CD, dropdown]
+    command.append('--title "Select Matching Movie"')
+    command.append('--text "iTunes Movie name is \\"' + track.name() +'\\""')
+    potentials = []
+    data = IMDb.search_movie(track.name())
+    for each in data:
+        temp = each['long imdb canonical title']
+        if '"' in temp:
+            temp = temp.replace('"','\\"')
+        potentials.append('"' + temp + '"')
+    # If there are no matches, return nothing.
+    if potentials == []:
+        return None
+    command.append('--items ' + u' '.join(potentials))
+    # At the moment, we just replace extended characters with a ?.
+    # They are handled okay by appscript and iTunes, so it's just
+    # in the dialog box that they are replaced.
+    cmd = u' '.join(command).encode('ascii','replace')
+    result = os.popen(cmd).readlines()
+    # If the user clicks Cancel, return None, otherwise return the
+    # movie object from IMDb that they selected.
+    if int(result[0]) == 1:
+        return data[int(result[1])]
+    else:
+        return None
+
+def imdb2itunes(movie,track):
+    """Takes an imdb movie object, and an iTunes track, and adds the 
+    data from the former to the latter."""
+    
+    # Get more info from the server first.
+    IMDb.update(movie)
+    
+    # Sometimes there isn't one of the fields, so if is required in each case.
+    if movie.has_key('rating'):
+        track.rating.set(movie['rating']*10)
+    if movie.has_key('title'):
+        track.name.set(movie['title'])
+    if movie.has_key('year'):
+        track.year.set(movie['year'])
+    if movie.has_key('director'):
+        track.composer.set(movie['director'][0]['name'])
+    if movie.has_key('plot outline'):
+        track.description.set(movie['plot outline'])
+    if movie.has_key('genres'):
+        track.genre.set(movie['genres'][0])
+    
+    # Just list cast members in the comment.
+    if movie.has_key('cast'):
+        cast = []
+        for each in movie['cast']:
+            cast.append(each['name'])
+        track.comment.set(', '.join(cast))
+    
+def processSelection():
+    "Lookup movie data for every selected track."
+    tracks = itunes.selection()
+    processTracks(tracks)
+            
+def processTrack(track):
+    print "Processing", track.name(), '...'
+    movie = selectMatch(track)
+    if movie is not None:
+        imdb2itunes(movie,track)
+    print "Done!"
+        
+def processTracks(trackList):
+    for track in trackList:
+        processTrack(track)
+        
+def getMovie(name):
+    "Helper function to get a movie track with a specific title."
+    for each in movies:
+        if each.name() == name:
+            return each
+    return None
+
+if __name__ == "__main__":
+    # By default, work on the selected items in iTunes.
+    processSelection()

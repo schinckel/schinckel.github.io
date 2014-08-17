@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 1034
+layout: post
+title: "Review: Like a Version Two"
+time: "17:46:35"
+date: 2006-11-11 17:46:35
+tags: 
+- popular
+wordpress_url: http://schinckel.net/2006/11/11/review-like-a-version-two/
+---
+Back when I first got bought a CD burner, a clunky 4x SCSI internal model for our PowerMac 8600, I went through a phase of making bootleg CDs. Not pirating CDs, but recording from the radio - mainly from [Triple J][1]'s [Live at the Wireless][2] program that was running at the time, and apparently still is. I obviously haven't ripped any of those CDs to my iTunes, as there aren't any there. One other CD I made was from Merrick and Rosso. They had a group of well-known Australian Artists cover other Australian Artists' classic songs. There were some brilliant covers, but the two that stick in my memory were [You Am I][3] doing a [Paul Kelly][4] track (_When I First Met Your Ma_), and then Paul Kelly returning the favour with _Heavy Heart_. This was a turning point in my musical taste, with me then purchasing every You Am I, and every Paul Kelly album. I went into [Like a Version Two][5] with a similar hope. That these covers might reflect some of the class, and fun, that Merrick and Rosso had back in November 99 or 2000. Since this is a Triple J release, I was counting on some cool stuff.  And was not totally disappointed. Whilst about the only track from this album I had heard before was the Herd's sacrilegious butchering of the old Redgum classic _I Was Only 19_, Sophie Koh managed to improve upon the Radiohead track _Creep_. Her vocal style and husky voice suit the track, and, since I was never that much of a Radiohead fan, I think this one track might make it into my regular rotation. Sarah Blasko reminded me of why I love her music - with _Goodbye Yellow Brick Road_ now vying for her cover of _Flame Trees_, perhaps [Cold Chisel][6]'s greatest song, as my favourite of her songs. The Eels covered a Prince track passably, but the Drones droned on for 3:00 too long on a 3:24 Beasts of Bourbon song. Bourbon still reminds me of Wild Turkey, and the night before AFL Grand Final 1993, when I made an absolute mess of myself on a whole bottle of this nasty liquor. So, that wasn't a good connection for starters. Crooked Fingers have a faithful reproduction of Johnny Cash, complete with strumming guitar and gravelly voice. And I thought the point of a reinterpretation was to make it your own. It's not that it's bad, but it just isn't different enough. _Dancing in the Dark_, however, shows how a song can be altered by arrangement. Tegan and Sara's interpretation of the Springsteen hit make it sound much more like a thinking song than the Rock-y original. This one might be worth another listen or two. Evermore bravely take on a modern-ish track: _Relapse_, originally by Little Birdy. It's a satisfactory song, but I'll take the original over it any day. 67 Special repeated the risk with a cover of Missy Higgins' _Scar_; this one is vastly different. Without knowing that it was the same song, I probably wouldn't have picked it. Having said that, Jaq did, but she listens to stuff better than I do. I do like how the tempo changes to a more jazzy version about two-thirds of the way through. Another album out in the wild at the moment is _She Will Have Her Way_, a collection of female artists reinterpreting classic songs by the Brothers Finn. _My Mistake_ wasn't on that album, and The Panda Band sound more like the Beatles than anyone else with their cover of this. Much better than _Wild World_, by the Mountain Goats, which sounds amateurish and weak. Funnily enough, this was a track [some][7] [other][8] listeners actually liked most on the album... Much of the remainder of the album, however, is neither outstanding nor vile. Spoon stumble through _Upwards at 45 Degrees_, originally by Julian Cope. Since I've heard of neither the artist or the track, it didn't do a lot for me. Lior's cover of Neil Young's _Needle and the Damage Done_ was better than anything I've seen on Idol recently, but that's more of a reflection on that _fantastic_ program. Sarcasm intended. So does it get the thumbs up? Not really. Thank got for iTunes, and iPod, as I can just scrape the cream off the top of this one, and drop the remainder into digital oblivion. Of course, those of you who know me will realise that this won't happen. All tracks stay in the Library, just get a poor rating. 
+
+[Don't Let Me Be Misunderstood][9] • [New Buffalo][10] • [Like A Version Two][11]
+
+   [1]: http://triplej.acb.net.au
+   [2]: http://www.abc.net.au/triplej/live/
+   [3]: http://youami.com.au/
+   [4]: http://www.paulkelly.com.au/
+   [5]: http://mog.com/music/Various_Artists/Like_A_Version_Two
+   [6]: http://en.wikipedia.org/wiki/Cold_Chisel
+   [7]: http://www.theyowie.com.au/2006/07/05/like-a-version-two/
+   [8]: http://hazarforeverything.blogspot.com/2006/09/hazar-for-random-cds.html
+   [9]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?songTerm=Don't+Let+Me+Be+Misunderstood&artistTerm=New+Buffalo
+   [10]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?artistTerm=New+Buffalo
+   [11]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?albumTerm=Like+A+Version+Two&artistTerm=
+

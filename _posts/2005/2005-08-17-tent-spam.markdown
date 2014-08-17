@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 360
+layout: post
+title: Tent Spam
+time: "17:38:24"
+date: 2005-08-17 17:38:24
+tags: 
+- general
+wordpress_url: http://schinckel.net/2005/08/17/tent-spam/
+---
+I got some Spam today, starting with: 
+
+> To Whom It May Concern, We have learned from the Internet thay you may be interested in tents...
+
+I deleted it before actually reading any more. Perhaps I needed to reply (from a dead address, so I don't get more Spam), and just inform them that this is not a good thing to do. I think maybe these are not "Internet People", and maybe they don't understand what they have done is wrong, and well, ... Or, just let it be deleted by the Spam Filter... 

@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 1144
+layout: post
+title: wxPython
+time: "18:14:48"
+date: 2007-05-16 18:14:48
+tags: 
+- python
+- rants-and-raves
+wordpress_url: http://schinckel.net/2007/05/16/wxpython/
+---
+Maybe I'm just being crazy, but I'm not really finding wxPython particularly pythonic. For instance, I'm trying to make a fairly simple application that has a SplitterWindow, and I seem to have to do a whole lot of sub-classing to actually get it to work. Feels more like Java than Python. Which I'm really not keen on doing. 
+
+[Notice][1] • [Gomez][2] • [Chillout Sessions 9][3]
+
+   [1]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?songTerm=Notice&artistTerm=Gomez
+   [2]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?artistTerm=Gomez
+   [3]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?albumTerm=Chillout+Sessions+9&artistTerm=
+

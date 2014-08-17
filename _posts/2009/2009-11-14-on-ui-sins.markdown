@@ -1,0 +1,33 @@
+--- 
+wordpress_id: 1668
+layout: post
+title: On UI sins
+time: "08:23:52"
+date: 2009-11-14 08:23:52
+tags: 
+- software
+- ui
+wordpress_url: http://schinckel.net/2009/11/14/on-ui-sins/
+---
+My sister likes to back up DVDs that her children use all of the time: they are old enough to change discs, but they tend to get scratched. So, I have been looking into backup solutions for her to use on her new MacBook.
+
+I came across Aimersoft DVD Backup, and ran it. Not looking too bad to begin with.
+
+![][1]
+
+The actual window, however, is appalling:
+
+![Aimersoft DVD Backup(Unregistered)][2]
+
+It is a little hard to see, but the window is not actually connected to the titlebar. You can actually see the objects that are in obscured windows in the gap between them!
+
+Finally, the text from the close confirmation sheet just cracked me up:
+
+![][3]
+
+Surely, they can tell if a copying task is in progress, and display a dialog then. If not, then just quit immediately!
+
+   [1]: http://schinckel.net/images/Register.png
+   [2]: http://schinckel.net/images/Aimersoft%20DVD%20Backup(Unregistered).png
+   [3]: http://schinckel.net/images/AimersoftCloseSheet.png
+

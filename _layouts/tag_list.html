@@ -1,0 +1,14 @@
+---
+layout: page
+title: Tags
+---
+
+<article class="tag-list">
+    <ul>
+        {% for tag in page.tags %}
+            <li class="tag">
+                <a class="tag" href="{{ tag|downcase }}/">{{ tag }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</section>

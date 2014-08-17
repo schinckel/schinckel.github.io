@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 1063
+layout: post
+title: CLI-fu
+time: "19:23:30"
+date: 2006-12-13 19:23:30
+tags: 
+- languages
+- humour
+wordpress_url: http://schinckel.net/2006/12/13/cli-fu/
+---
+![][1] LMAO! (from [xkcd.com][2])
+
+   [1]: http://imgs.xkcd.com/comics/command_line_fu.png
+   [2]: http://xkcd.com/c196.html
+

@@ -1,0 +1,37 @@
+--- 
+wordpress_id: 29
+layout: post
+title: A Number
+time: "20:27:46"
+date: 2004-05-29 20:27:46
+tags: 
+- theatre
+wordpress_url: http://schinckel.net/2004/05/29/a-number/
+---
+Starring [Marcus Graham][1] (_Yum_, according to Jaq) and [Frank Gallacher][2] The final showing of **A Number**, by British playwright Caryl Churchill was at the Space Theatre last night. Without going into detail about how we went and saw it because Jaq is a big Marcus Graham fan (I've never even seen [E-Street][3], but I loved [Good Guys, Bad Guys][4]), I'll say that I enjoyed it. To begin with, we were right down the front, only metres away from the actors, and in the first scene, where they appeared on-stage quickly, made us feel like part of the action. 
+
+> A number. I'm not sure how many. Several. Maybe 10. Maybe more.
+
+Okay, the gist of the plot is that Marcus has just discovered that he is not unique, that several clones were made 'of him' when he was born. Or so we are led to believe. His father, Frank, is keen to call in lawyers and sue the doctor, and towards the end of the first scene it is revealed that Marcus isn't in fact the original, but was a clone made of a previous son, who died in a car crash with his (their?) mother when he was four. Marcus expresses some desire to meet one or more of the other clones. 
+
+> "Did you give me the same name as him?" "Would it make it worse if I did?"
+
+But, Frank is still not telling the whole truth. The original Marcus appears in the next scene, and we begin to discover that the older Marcus was sent away, seemingly because he was a bad child. Eventually, we learn that Frank was not a good father of the first Marcus, and he stopped drinking, and made a much better go of the new Marcus. Naturally, the first son is concerned about the new son, and he expresses a desire to kill the child of the clone, if he has one. We discover during this scene that the mother killed herself when the first son was about two. 
+
+> She threw herself under a train. You know when they say 'Someone's gone under a train, and the trains will be delayed'? She was one of those people.
+
+I originally thought to myself "Why did they use the English accents?" When the second scene began, I thought (briefly) that Marcus had let his accent change, but it soon became apparent that this was the best way to delineate between the clones. It brought home to me the sameness of different Australian accents between even geographically disparate regions of our country, like Melbourne, Adelaide and Perth. The third scene returns us to the younger Marcus, who has just met his older clone. And he is afraid of him. It turns out that he had good cause, because between the third and fourth scenes, the older clone murders the younger. The fourth scene is the older Marcus telling his father about the death of his son. 
+
+> Are you going to become one of those ... serial killers? Go around, killing the others one by one?
+
+The final scene is the father meeting with another of the clones. At some point we learned there were 21 in total, including the first. It now seems that the first clone killed himself shortly after the conflict with his father, and the father has decided to meet one of the clones. This scene contains several clever lines, but I felt that Marcus played up to the audience a little too much. Again the accent of the character was different (this clone was a Maths Teacher, and very proper), and again the temperament of the character differed too. The father wanted to know more about his 'other' son, and never really seemed to be satisfied with any answers. 
+
+> We share 99% of our genes with each other, 90% with chimpanzees, and 40% with a lettuce.
+
+The play ended suddenly, leaving me with (besides an urge to tell everyone within hearing that we actually share closer to 99.5% of our genes with chimpanzees!) a desire to see more. The resolution just wasn't there. Perhaps another short scene, where the father meets the next clone, implying he is going to meet all of them. Regardless, A Number was extremely enjoyable - if it plays near you, see it. (The quotes are just from memory - and may be slightly wrong.) 
+
+   [1]: http://www.imdb.com/name/nm0334198/
+   [2]: http://www.imdb.com/name/nm0302314/
+   [3]: http://www.imdb.com/title/tt0096572/
+   [4]: http://www.imdb.com/title/tt0118326/
+

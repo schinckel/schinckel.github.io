@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 1508
+layout: post
+title: Twitter
+time: "13:48:19"
+date: 2008-07-19 13:48:19
+tags: 
+- asides
+- internet
+wordpress_url: http://schinckel.net/2008/07/19/twitter/
+---
+I registered for Twitter ages ago, but only recently started actually using it all of the time.
+
+[http://twitter.com/schinckel][1]
+
+   [1]: http://twitter.com/schinckel
+

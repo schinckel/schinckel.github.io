@@ -1,0 +1,8 @@
+<footer>
+    {% if page.previous %}
+        <a class="prev" href="{{ page.previous.url }}">&larr; older</a>
+    {% endif %}
+    {% if page.next %}
+        <a class="next" href="{{ page.next.url }}">newer &rarr;</a>
+    {% endif %}
+</footer>

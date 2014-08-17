@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 99
+layout: post
+title: Pet Hate(s).
+time: "02:38:04"
+date: 2005-01-01 02:38:04
+tags: 
+- general
+wordpress_url: http://schinckel.net/2005/01/01/pet-hates/
+---
+I have a new pet hate. Along with incorrect use of apostrophes, wrong synonyms, and (among others) people only doing 50km/h when it's clearly signed as 60, I can add people stopping in front of the ATM after they've finished their transaction. If only we were allowed to kill people for this sort of shit. Hey, that might make a neat book! Oooh! Another one. Too much froth on coffee. I order a flat white instead of a cappucino because I don't want the top 10-15mm to be foam! By the way, avoid Cibo on the Parade, their coffee is appalling - or was last night. 

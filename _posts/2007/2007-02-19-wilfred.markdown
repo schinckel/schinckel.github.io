@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 1104
+layout: post
+title: Wilfred
+time: "20:52:35"
+date: 2007-02-19 20:52:35
+tags: 
+- humour
+- tv
+wordpress_url: http://schinckel.net/2007/02/19/wilfred/
+---
+There's a new show starting soon on SBS, _Wilfred_. After seeing the advertisements a couple of times, it looks really good. The premise is that a girl's dog, the _Wilfred_ of the title, loves his owner, but hates the boyfriend. He manages to sabotage just about everything about the relationship. Sound interesting? It's a comedy, and did I mention that the dog(s) in the show are men in dog suits. However, something I just read might turn me off it, before I've even seen it. Apparently, it's by the same guys who created the despicable excuse for a comedy that is known as _The Wedge_. The only saving grace may be that SBS has picked it up, rather than one of the commercial stations (notably Channel 10?) Perhaps that will mean it is actually good. &lt;/TV Snob Mode&rt;
+

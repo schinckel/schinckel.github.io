@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 519
+layout: post
+title: iTMS.au
+time: "17:50:57"
+date: 2005-10-25 17:50:57
+tags: 
+- itunes
+wordpress_url: http://schinckel.net/2005/10/25/itmsau/
+---
+iTunes Music Store Australia is here. Since you need to sign up to even get access to the free music, I had to enter my Credit Card Number. It didn't work. Three times. Apparently you need to actually have money in there for it to work. 

@@ -1,0 +1,37 @@
+--- 
+wordpress_id: 392
+layout: post
+title: Wall Gone
+time: "20:53:28"
+date: 2005-08-27 20:53:28
+tags: 
+- house
+wordpress_url: http://schinckel.net/2005/08/27/wall-gone/
+---
+Well, today was a busy day. Beginning at 8:45, we removed 2.5m of the wall between the kitchen and the lounge. The cavity doesn't go right up to the ceiling, but is at about normal door height. Apologies to everyone, but this is avery photo-heavy post.  To start with, we drilled three holes in the wall, well above where the cavity was going to be. Then we inserted Ã˜40 steel bars through the wall, and supported them with upright adjustable stands. We used a large piece of timber to keep everything stable. [![Imgp0483][1]][2] [![Imgp0488][3]][4] [![Imgp0493][5]][6] Then we cut out the section where the C-Channel Lintel was going, and inserted that in. [![Imgp0524][7]][8] [![Imgp0526][9]][10] [![Imgp0529][11]][12] Finally, we removed the section of wall that was no longer required. [![Imgp0547][13]][14] [![Imgp0549][15]][16] [![Imgp0561][17]][18] There's still a lot to do: for instance, we are actually going to insert some vertical supports, just because we are chicken and don't believe the engineer! (Well, Jaq is anyway). As you can see from this last set of photos, there were quite a few bessa blocks removed! Oh, and we got the smaller wall between the lounge and dining rooms ready to knock out as well. [![Imgp0562][19]][20] [![Imgp0554][21]][22] [![Imgp0569][23]][24] Oh, and the last image is me just showing off the macro function in the camera I borrowed from work. 
+
+   [1]: /images/IMGP0483tm.jpg
+   [2]: http://schinckel.net/images/images/IMGP0483.jpg
+   [3]: /images/IMGP0488tm.jpg
+   [4]: http://schinckel.net/images/IMGP0488.jpg
+   [5]: /images/IMGP0493tm.jpg
+   [6]: http://schinckel.net/images/images/IMGP0493.jpg
+   [7]: /images/IMGP0524tm.jpg
+   [8]: http://schinckel.net/images/images/IMGP0524.jpg
+   [9]: /images/IMGP0526tm.jpg
+   [10]: http://schinckel.net/images/images/IMGP0527.jpg
+   [11]: /images/IMGP0529tm.jpg
+   [12]: http://schinckel.net/images/images/IMGP0529.jpg
+   [13]: /images/IMGP0547tm.jpg
+   [14]: http://schinckel.net/images/images/IMGP0547.jpg
+   [15]: /images/IMGP0549tm.jpg
+   [16]: http://schinckel.net/images/images/IMGP0549.jpg
+   [17]: /images/IMGP0561tm.jpg
+   [18]: http://schinckel.net/images/images/IMGP0561.jpg
+   [19]: /images/IMGP0562tm.jpg
+   [20]: http://schinckel.net/images/images/IMGP0562.jpg
+   [21]: /images/IMGP0554tm.jpg
+   [22]: http://schinckel.net/images/images/IMGP0554.jpg
+   [23]: /images/IMGP0569tm.jpg
+   [24]: /images/IMGP0569.jpg
+

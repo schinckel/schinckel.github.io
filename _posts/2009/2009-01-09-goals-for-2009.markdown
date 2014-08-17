@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 1632
+layout: post
+title: Goals for 2009
+time: "12:33:16"
+date: 2009-01-09 12:33:16
+tags: 
+- general
+wordpress_url: http://schinckel.net/2009/01/09/goals-for-2009/
+---
+What am I hoping to achieve in the coming year?
+
+  * Learn two new languages: at this stage it looks like it might be two of Haskell, Ruby and Icon. Probably the first two.
+  * Play in the National Touch League. Over 30s, but still the highest competition in the world.
+  * Finish this degree, start the next. I'm hoping to get a headstart on my Honours degree, if they'll let me.
+  * Release some OS X software. I have three commercial programs in various stages of completion. I'm hoping to get one of them done and released.
+  * Build a vegetable garden. Got the beds planned out - just need to make them.
+  * Learn to type using a Dvorak key layout.
+  * Reread SICP
+
+I'm sure I'll think of more things than this...

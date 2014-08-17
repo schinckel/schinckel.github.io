@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 1052
+layout: post
+title: Blogmailr
+time: "22:45:35"
+date: 2006-11-21 22:45:35
+tags: 
+- blogsome
+wordpress_url: http://schinckel.net/2006/11/21/blogmailr-3/
+---
+There has been some discussion about how [Blogsome][1] doesn't allow Email posting, and now a new service has stepped in to fill the gap.  
+  
+[Blogmailr][2] is a free service that allows you to send an email to a predetermined address (like [r7873hud@blogmailr.com ][3]), and it will automagically appear as an entry on your blog.  
+  
+You'll need to visit Blogmailr first, and register.  I created a new user in my blog (be sure to promote it to a level that can post, ie > 0), so that if things go bad, I can easily remove posts, and it can't remove anything I have posted from my proper account.  
+  
+You can also add categories, and styling to the post.  Like I have to this one.  
+  
+Thanks to [Micah][4] for this find.   
+  
+  
+Update: I've not used Blogmailr since this date, and have removed the user to which it was attached... 
+
+   [1]: http://www.blogsome.com
+   [2]: http://blogmailr.com
+   [3]: mailto:r7873hud@blogmailr.com
+   [4]: http://micah.blogsome.com/
+

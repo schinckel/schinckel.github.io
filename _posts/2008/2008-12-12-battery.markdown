@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 1621
+layout: post
+title: Battery...
+time: "16:42:59"
+date: 2008-12-12 16:42:59
+tags: 
+- macbook-pro
+- apple
+wordpress_url: http://schinckel.net/2008/12/12/battery/
+---
+Dear Apple,
+
+Please send me the battery that you said you would. I'm not really liking when I see this:
+
+  
+![battery.png][1]
+
+That's not much fun at all.
+
+Regards,
+
+Matt.
+
+   [1]: /images/2008/12/battery.png
+

@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 760
+layout: post
+title: 999 Forum Posts
+time: "00:12:49"
+date: 2006-03-14 00:12:49
+tags: 
+- blogsome
+wordpress_url: http://schinckel.net/2006/03/14/999-forum-posts/
+---
+I just noticed I've written 999 posts on the Blogsome Forums: ![][1] Whoa, that's a lot of helping! (And a little bit of telling off, too!) And in less than one year! 
+
+   [1]: /images/999Posts.png
+

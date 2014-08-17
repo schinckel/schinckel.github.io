@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 105
+layout: post
+title: Fat Stuff.
+time: "22:15:54"
+date: 2004-12-05 22:15:54
+tags: 
+- general
+wordpress_url: http://schinckel.net/2004/12/05/fat-stuff/
+---
+Two items in this week's NewScientist: One that some people ''Do not respond to exercise". I think this is quite a dangerous statement - it gives people an easy out. "I did exercise, but it didn't help me". The other is also sobering - nearly half of all people who receive liposuction are fatter within a couple of months after the surgery than they were before. I'd like to see some follow-up data from Extreme Makeover! 

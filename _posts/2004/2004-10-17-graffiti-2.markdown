@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 118
+layout: post
+title: Graffiti 2
+time: "20:49:12"
+date: 2004-10-17 20:49:12
+tags: 
+- palmos
+wordpress_url: http://schinckel.net/2004/10/17/graffiti-2/
+---
+Letters & Symbols I keep getting wrong on my Palm. Comma - becomes a J, or S, or even a CR or BS, but mainly a J. D - often becomes an A. T - either an F followed by a space, or an L followed by a `<menu swipe>`. 2 - 7. ( or ) - 1. E - Q. (If slack!) I also run into problems on words ending with L, or when 5 is followed by a 1. (I've changed the $ setting in Graffiti Prefs.) And every now and then, H doesn't appear. 

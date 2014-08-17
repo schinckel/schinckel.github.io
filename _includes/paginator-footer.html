@@ -1,0 +1,8 @@
+<footer>
+    {% if paginator.next_page %}
+        <a class="prev" href="{% if paginator.page > 1 %}../{% endif %}page{{ paginator.next_page }}">&larr; older</a>
+    {% endif %}
+    {% if paginator.previous_page %}
+        <a class="next" href="{% if paginator.page > 1 %}../{% endif %}{% if paginator.previous_page > 1 %}page{{ paginator.previous_page }}{% endif %}">newer &rarr;</a>
+    {% endif %}
+</footer>

@@ -1,0 +1,35 @@
+--- 
+wordpress_id: 327
+layout: post
+title: CSS Lists
+time: "16:33:49"
+date: 2005-08-07 16:33:49
+tags: 
+- web-design
+wordpress_url: http://schinckel.net/2005/08/07/css-lists/
+---
+Lists are useful in Template design - for instance, the Navigation links at the top of this blog are done with links, and CSS to position them, and remove the bullets, and so on. The code that handles it: 
+    
+    
+{% highlight css linenos %}
+    #topnav 
+    {
+    	list-style:none;
+    	font-size:0.9em;
+    	margin:0 auto;	
+    	padding:12px 20px 0 0;
+    	text-align:right;	
+    	font-family:Verdana, Arial, Sans-Serif;
+    }
+    #topnav li 
+    {
+    	list-style:none;
+    	display:inline;
+    	padding:0;
+    	margin:0;
+    	font-weight:bold;
+    }
+{% endhighlight %}
+    
+
+The important bits are the `list-style:none;`, `text-align:right;` and `display:inline;` clauses. They remove bullets, place the text on the right, and make them appear on the same line. What I'd really like to be able to do is have the CSS put in the 'pipe' symbol (`|`) automatically. That is, all the template user needs to do is put a list item in, and it puts `|` between each item. This doesn't seem to be possible with CSS, or at least, I can't figure out how to do it. 

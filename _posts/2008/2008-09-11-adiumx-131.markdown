@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 1548
+layout: post
+title: AdiumX 1.3.1
+time: "18:46:38"
+date: 2008-09-11 18:46:38
+tags: 
+- rants-and-raves
+- macos-x
+wordpress_url: http://schinckel.net/2008/09/11/adiumx-131/
+---
+I have, courtesy of MkConsole, the data from some of my log files displayed on my desktop. This is really useful, as I notice stuff that gets logged there.
+
+It's less useful when applications write more stuff to the system logs than is strictly necessary. For instance:
+
+![Picture 1.png][1]  
+
+
+That's just a small segment of the issue, but it clearly shows that the latest release of AdiumX, 1.3.1 is dumping two lines to the console or system log every minute.
+
+For google, the logfile data that is coming out is:
+
+    > 11/09/08 6:41:18 PM [0x0-0x48048].com.adiumX.adiumX[828] INFO cmdproc.c:98:show_debug_cmd() S: 000: QNG 42  
+    > 11/09/08 6:41:37 PM [0x0-0x48048].com.adiumX.adiumX[828] INFO cmdproc.c:98:show_debug_cmd() C: 000: OUT  
+
+
+Time to go without IM for a little while.
+
+Might get more work done anyway. But only if I kill Twitterific too, I suspect.
+
+   [1]: /images/2008/09/picture-1.jpg
+

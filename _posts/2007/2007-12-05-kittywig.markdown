@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 1324
+layout: post
+title: Kittywig
+time: "16:48:38"
+date: 2007-12-05 16:48:38
+tags: 
+- humour
+wordpress_url: http://schinckel.net/2007/12/05/kittywig/
+---
+Meow
+
+![][1]
+
+via [John Scalzy][2].
+
+   [1]: /images/2007/12/chickenblueelbow.gif
+   [2]: http://scalzi.com/whatever/?p=171
+

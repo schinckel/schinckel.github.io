@@ -1,0 +1,33 @@
+--- 
+wordpress_id: 1250
+layout: post
+title: Untitled 1
+time: "11:56:26"
+date: 2007-09-05 11:56:26
+tags: 
+- blogging
+wordpress_url: http://schinckel.net/2007/09/05/untitled-1/
+---
+I received this in email today:
+
+> ZTMC is interested in advertising text links on schinckel.net, or other websites that you might own.
+> 
+> ZTMC manages a network of advertisers that range from large corporate sites to kid friendly sites.Many types of advertisers are represented in the network, with the exception of adult sites and warez (hacker/pirated software) content.Again, no warez or adult sites ads are displayed.We would like to display four links randomly on your site, ideally on every page of your site.Home page only or run of sub-section ads are also an option.Typically, the ads are placed in the footer of your site but they could also be in the header or a side bar.Payment for these ads would be upfront each month, the first month being paid once the ads are live and reviewed for proper setup.
+> 
+> Our monthly agreement would continue indefinitely, and we will pay you in advance based on the day of the month you began running our ads, providing your site performs as expected.
+> 
+> These ads are not banner ads, they are simple one line text links.You will be able to theme the links, adjusting the size and color to fit your site as you see fit, as long as they are properly visible to the users.
+> 
+> I hope you agree that this is an interesting way to help you grow your website and monetize your hard work.
+> 
+> Please contact me if this interests you.I will provide examples of these ads on existing sites and hopefully we can agree on a monthly fee that will be mutually beneficial.
+> 
+> Thank you for your time,
+> 
+> Nicole,  
+Marketing Manager  
+ZTMC, Inc.
+
+Now, this is actually the first Spam email I've ever seen that might be selling a product I might be interested in. Apart from the fact that I don't use that website anymore (although they have addressed this), and I already have an Ad system. Not that I'm really that happy with Google AdSense, but I'm close enough to actually receiving a payment after several years I can't stand to leave.
+
+And finally, I cannot bear to respond to a Spam email. So bad luck, Nicole, you should have chosen a more appropriate method of trying to get new business.

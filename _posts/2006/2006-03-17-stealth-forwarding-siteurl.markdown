@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 794
+layout: post
+title: Stealth Forwarding &amp; {$siteurl}
+time: "16:32:53"
+date: 2006-03-17 16:32:53
+tags: 
+- blogsome
+wordpress_url: http://schinckel.net/2006/03/17/stealth-forwarding-siteurl/
+---
+I've got my own domain ([http://schinckel.net][1]), which just so happens to point towards this blog. It would be cool if I could replace the _http://schinckel.net _with _http://schinckel.net _everywhere it appears. I have gotten ever so close to achieving this. I have made it so that `{$siteurl}` is equal to _http://schinckel.net_, using a hidden options page. This means that all of the links and so forth on my blog now look like: [http://schinckel.net/2006/03/15/coffee-physics/][2] Then, in theory, if I make _http://schinckel.net_ "Stealth Forwarding" instead of "Standard Forwarding", then it will keep these addresses in the address bar, and people copy-pasting them would grab my nicer address.  However, there is on issue. Stealth forwarding actually uses a frameset to work, and this interferes with the proper passing through of data. Thus, on [http://www.schinckel.net/][3], which does use Stealth forwarding, when I click on a link that goes to another page, the original URL stays in the address bar. If I turn on Stealth for _http://schinckel.net_, this bug seems to go away - clicking on a link to another page puts the correct address into the page, but since the frameset exists, then two other problems appear: Cookies for logging into the site fail (as it's actually a different site), and the StyleSheet file fails to load, as instead of it being _http://schinckel.net/templates/wp-layout.css_, which is a CSS file, it is a page, in HTML, with a frame with the CSS file inside of it that loads. Which fails to be interpreted by the browser, resulting in dodgy looking pages. I could overcome the second issue by hard-coding the CSS file path into my template, but the first one is a biggie. I can't just login to _http://schinckel.net/wp-admin/_, as all of the links inside of the page that use `{$siteurl}` now point to _http://schinckel.net/wp-admin/yada-yada-yada.php_, which the login session isn't valid for. So, I can't access anything inside the Dashboard. I've settled on a middle ground for now: I've set the `{$siteurl}` to _http://schinckel.net_, but left forwarding mode as Standard. Now, anything in the page which writes a URL as `src="/yada"` will give a _schinckel.net_ address, but anything that uses `{$siteurl}` will give a nice _schinckel.net_ address. I might be able to post-process some stuff so it looks even nicer, but the address bar will always be _http://schinckel.net/yada/_. Unless I can outsmart the cookies. The outsmarting can be done one of two ways: firstly using JavaScript, and secondly using Smarty Tags. I think JavaScript will be better, as it will automatically get every location, whereas the Smarty Tag solution would requires some serious `{capture} ... {$var|replace}` action. The bestmethod may be to tweak my DNS settings, so that the location of _schinckel.net_ is the same as that of _schinckel.net_, however I don't yet know enough about this to even try. 
+
+   [1]: http://schinckel.net
+   [2]: http://schinckel.net/2006/03/15/coffee-physics/
+   [3]: http://www.schinckel.net/
+

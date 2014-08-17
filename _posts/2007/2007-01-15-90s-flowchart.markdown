@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 1093
+layout: post
+title: 90s Flowchart
+time: "16:16:21"
+date: 2007-01-15 16:16:21
+tags: 
+- humour
+- popular
+wordpress_url: http://schinckel.net/2007/01/15/90s-flowchart/
+---
+![][1] [xkcd - A webcomic of romance, sarcasm, math, and language - By Randall Munroe][2]
+
+   [1]: http://imgs.xkcd.com/comics/90s_flowchart.png
+   [2]: http://xkcd.com/c210.html
+

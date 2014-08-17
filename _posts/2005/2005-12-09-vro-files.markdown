@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 587
+layout: post
+title: .VRO files
+time: "17:52:53"
+date: 2005-12-09 17:52:53
+tags: 
+- tv
+wordpress_url: http://schinckel.net/2005/12/09/vro-files/
+---
+I missed the last episode of The Biggest Loser. A friend taped it, but our VCR is still packed away somewhere since we moved house, and we only have the Xbox connected up. This does double duty as our DVD player. So, he converted the taped version to DVD using his PVR. Except it came out as not a proper DVD. `VR_MOVIE.VRO` This is a file format used by PVR systems, and apparently is similar to a VOB file, but not quite. I went to convert this with some software, but it failed. I then tried to copy it across to the HD so I could manipulate it, but that failed too. It seems to have something to do with the fact that the file is larger than 4Gb. But I'm not sure... but I do know that no commands or applications seem to be able to open it up. I'll have to try on the PC. Update: No good. The PC only has a DVD+RW drive, the disc is a DVD-RW disc. 

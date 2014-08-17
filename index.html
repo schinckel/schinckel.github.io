@@ -1,2 +1,15 @@
-Hello, World.
-<hr>
+---
+layout: default
+title: Blog
+---
+{% for post in paginator.posts %}
+    <article class="post">
+        {% include post-header.html %}
+        {% include post-meta.html %}
+        <section class="body">
+            {{ post.content }}
+        </section>
+    </article>
+{% endfor %}
+
+{% include paginator-footer.html %}

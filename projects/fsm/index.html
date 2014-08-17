@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Finite State Machine Diagrammer</title>
+  <script data-main="scripts/main" src="scripts/require.js"></script>
+</head>
+<body>
+  
+  <div data-bind="delegatedHandler: ['mousedown', 'dblclick', 'click']">
+    <svg data-dblclick="newNode" data-click='select' data-mousedown='newLink' data-bind="event:{mousedown: mousedown}">
+      <defs>
+        <marker id='head' orient='auto' markerWidth='4' markerHeight='4' refX='1.9' refY='2'>
+          <path d='M0,0 V4 L2,2 Z'>
+        </marker>
+      </defs>
+      
+      <!-- ko foreach: links -->
+        <g>
+          <path data-bind="attr: svg" marker-end='url(#head)'/>
+          <!-- arrowhead colour -->
+          <!-- trim arc to circle -->
+        </g>
+      <!-- /ko -->
+    
+    
+      <!-- ko foreach: nodes -->
+        <g data-dblclick="toggleAccept" data-mousedown="moveStart">
+          <circle data-bind="attr: svg" />
+          <!-- ko if: $data.accept -->
+            <circle data-bind="attr: svgAccept" />
+          <!-- /ko -->
+          <text data-bind="text: name, attr: svgText"></text>
+        </g>
+      <!-- /ko -->
+    
+    </svg>
+  </div>
+  
+  <script>
+  require([
+    'zepto',
+    'knockout',
+    'fsm/fsm'
+  ], function($, ko, FSM) {
+  
+    fsm = new FSM([
+      {x:50, y:50, name:'foo', colour:'blue'}  
+    ]);
+    ko.applyBindings(fsm);
+  });
+  </script>
+</body>
+</html>

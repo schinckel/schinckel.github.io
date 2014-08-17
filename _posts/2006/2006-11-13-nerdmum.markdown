@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 1038
+layout: post
+title: Nerdmum
+time: "17:08:04"
+date: 2006-11-13 17:08:04
+tags: 
+- humour
+- mathematics
+wordpress_url: http://schinckel.net/2006/11/13/nerdmum/
+---
+![][1] What a cool Mum! (from [xkcd][2])
+
+[Worthless][3] • [Dido][4] • [Café Del Mar • Volume 8][5]
+
+   [1]: http://imgs.xkcd.com/comics/snacktime_rules.png
+   [2]: http://xkcd.com/c183.html
+   [3]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?songTerm=Worthless&artistTerm=Dido
+   [4]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?artistTerm=Dido
+   [5]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?albumTerm=Café+Del+Mar+•+Volume+8&artistTerm=
+

@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 1588
+layout: post
+title: Bzzz. BBQ.
+time: "14:03:16"
+date: 2008-11-15 14:03:16
+tags: 
+- humour
+wordpress_url: http://schinckel.net/2008/11/15/bzzz-bbq/
+---
+This is cool. Read the info, and then look at the pictures.
+
+[http://forum.bodybuilding.com/showthread.php?t=111878061][1]  
+
+
+(Now that I look at the URL, the avatar picture the guy has makes much more sense, and looks less gay.)
+
+   [1]: http://forum.bodybuilding.com/showthread.php?t=111878061
+

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 123
+layout: post
+title: Imagine...64
+time: "23:22:17"
+date: 2004-10-10 23:22:17
+tags: 
+- general
+wordpress_url: http://schinckel.net/2004/10/10/imagine64/
+---
+I'm still toying with the idea of writing a "What If?" novel about John Lennon, but I'm stuck for ideas about what would have changed. One idea is to write a "Butterfly Effect'' story resulting in Chapman's suicide, therefore Lennon's survival. 

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 1140
+layout: post
+title: USB1.0 is s...l...o...w
+time: "18:42:36"
+date: 2007-05-02 18:42:36
+tags: 
+- asides
+wordpress_url: http://schinckel.net/2007/05/02/usb10-is-slow/
+---
+Man, 12 Mbit/s is slow. I've got a USB 1.0 "full-speed" hub, and tried to copy across 60GB of files. In about 18 hours, that was only about 3GB copied... So I bought a USB 2.0 hub, and that is much faster. 

@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 380
+layout: post
+title: GVisit
+time: "20:00:57"
+date: 2005-08-23 20:00:57
+tags: 
+- blogging
+wordpress_url: http://schinckel.net/2005/08/23/gvisit/
+---
+Now this is cool. Go to [Gvisit][1] and you can register, and get a one-line JavaScript that can be put onto a web page, and their server will be able to tell you where your visitors are coming from! My last 5 visitors came from: 
+
+  * New York
+  * Bern
+  * Seattle, Washington
+  * Melbourne, Victoria
+  * Adelaide, South Australia
+
+I'm guessing the last one was me ;) The free service will only track the last 20 visitors, the paid-for one will do up to 100. (Thanks to [Jake][2] for this one) 
+
+   [1]: http://www.gvisit.com
+   [2]: http://jakebechtold.blogsome.com/
+

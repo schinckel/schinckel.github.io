@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 1115
+layout: post
+title: Komodo
+time: "15:26:16"
+date: 2007-04-05 15:26:16
+tags: 
+- languages
+wordpress_url: http://schinckel.net/2007/04/05/komodo/
+---
+I'm loving [Komodo][1]. I've just discovered it, and I'm playing with the free "Edit" only version, not the full IDE. I've set up a couple of macros/commands to make coding in python easier, one which just executes the selection using [python][2], and another which saves the current file, and then executes that. This should make it possible to replace most of what I do that requires a seperate window, however, the fine-grained ability to `$ python -i Source.py` and then type in commands is missing. I might need to try to build an extension that does that - allows for active manipulation of python code within the defined namespaces. Oh, and it works with just about every language, and on all major platforms. Bonus. 
+
+   [1]: http://www.activestate.com/Products/Komodo/
+   [2]: http://www.python.org
+

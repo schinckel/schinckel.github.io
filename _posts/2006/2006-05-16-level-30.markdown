@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 879
+layout: post
+title: Level 30
+time: "10:56:10"
+date: 2006-05-16 10:56:10
+tags: 
+- asides
+- wow
+wordpress_url: http://schinckel.net/2006/05/16/level-30/
+---
+Well, my character in World of Warcraft has made it to Level 30. Last night, after a massive 9 hour session, I finally got there. It's funny, but I think I'm spending more time in Azeroth than at my job... 

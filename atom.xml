@@ -1,0 +1,27 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Schinckel.net</title>
+ <link href="http://schinckel.net/atom.xml" rel="self"/>
+ <link href="http://schinckel.net/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://schinckel.net/</id>
+ <author>
+   <name>Matthew Schinckel</name>
+   <email>matt@schinckel.net</email>
+ </author>
+
+ {% for post in site.posts limit:20 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://schinckel.net{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://schinckel.net{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>

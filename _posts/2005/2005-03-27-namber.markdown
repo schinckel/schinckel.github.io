@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 34
+layout: post
+title: Namber
+time: "08:28:33"
+date: 2005-03-27 08:28:33
+tags: 
+- general
+wordpress_url: http://schinckel.net/2005/03/27/namber/
+---
+[Address to Namber][1]: schinckel.net is [smoke.show.study.stop.mysteryrobot.com][2]
+
+From [Nambers][3]. 
+
+   [1]: http://mysteryrobot.com/cgi/namber?address=schinckel.net
+   [2]: http://smoke.show.study.stop.mysteryrobot.com
+   [3]: http://mysteryrobot.com/
+

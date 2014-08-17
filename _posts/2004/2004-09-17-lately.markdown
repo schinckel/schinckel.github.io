@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 773
+layout: post
+title: Lately...
+time: "18:19:37"
+date: 2004-09-17 18:19:37
+tags: 
+- popular
+wordpress_url: http://schinckel.net/2004/09/17/773/
+---
+I remember a song a guy I went to boarding school with had a cassette single with four versions of a song called Lately. The lyrics were something like: 
+
+> Lately I've seen that look on your face, And you don't cry anymore. And I just don't know what to do, anymore. Oh Baby, Oh Baby, I want you here, with me.
+
+Anyway, I've never heard the song since, nor been able to find it on the web. But lately I've been rather busy with Touch, and haven't done much coding, other than entries for the New Scientist enigma, and since those ones haven't been drawn yet, I'm not going to share the answers. I have played around with some new apps, and I'll list them here: 
+
+  * The new version of Ecto, a blogging program is out
+  * NewsFire, an RSS Aggregator
+  * OmniWeb 5.0, a Web Browser
+  * VLC, a movie viewer
+  * ManOpen, a man page viewer.

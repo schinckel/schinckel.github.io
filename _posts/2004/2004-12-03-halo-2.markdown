@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 106
+layout: post
+title: Halo 2
+time: "19:57:18"
+date: 2004-12-03 19:57:18
+tags: 
+- xbox-games
+wordpress_url: http://schinckel.net/2004/12/03/halo-2/
+---
+I finished Halo 2 last night. The last level was pretty tough - well, the bit where you have to kill the brute with the big hammer, anyway. But it was a bit of a letdown - I was expecting Master Chief (anyone else think that's a stupid name?) to have to do some combat back on Earth at the end. I also had to drop back to easy at some point, although I'll now try to ramp up the difficulty and finish it on harder levels. 
+
+*note:* I've turned off pingbacks to this post, as it was getting hammered today.

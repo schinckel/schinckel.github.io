@@ -1,0 +1,25 @@
+<sidebar class="meta">
+  <ul>
+    Posted:
+    <li>
+      {% assign date = post.date %}{% include date-link.html %} @
+      <span class="time">{{ post.date|date:'%H:%M:%S' }}</span>
+    </li>
+    </ul>
+    <ul class="tags">
+      <!-- TODO: sort these so they flow nicer -->
+      Tags:<br>
+      {% for tag in post.tags %}
+        <li class="tag">
+          <a class="tag" href="/tags/{{ tag|downcase }}/">{{ tag }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+    <ul class="comment-count">
+      Comments:
+      <li>
+        <a href="{{ post.url }}#disqus_thread"
+           data-disqus-identifier="{{ post.id }}">here</a>.
+      </li>
+    </ul>
+</sidebar>

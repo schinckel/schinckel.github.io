@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 1032
+layout: post
+title: LeetSpam
+time: "15:05:59"
+date: 2006-11-10 15:05:59
+tags: 
+- humour
+wordpress_url: http://schinckel.net/2006/11/10/leetspam/
+---
+Take a look at the amount of Spam I have in my inbox at the moment. ![][1] That's right, I have 'leet spam messages. 
+
+   [1]: /images/leetSpam.png
+

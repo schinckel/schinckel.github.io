@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 801
+layout: post
+title: "&amp;order=asc"
+time: "22:23:12"
+date: 2006-03-20 22:23:12
+tags: 
+- blogsome
+wordpress_url: http://schinckel.net/2006/03/20/orderasc/
+---
+A Blogsome user wanted to use the URL switch `?order=asc` to get an ascending list of posts by date. I suggested it would't work, but they tried it in the form: [http://schinckel.net/category&order=asc][1] And it worked! It only seems to work for category pages, although I think the above URL will actually catch every post, as each post lives in at least one place within the /category hierarchy. This opens up huge opportunities to use other URL switches to get other effects under Blogsome. I'm off to the [Wordpress Codex][2], to see what else I can use! 
+
+[I Wasted Time][3] • [Paul Kelly][4] • [...Nothing But A Dream][5] ★★★★
+
+   [1]: http://schinckel.net/category&order=asc
+   [2]: http://codex.wordpress.org/
+   [3]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?songTerm=I+Wasted+Time&artistTerm=Paul+Kelly
+   [4]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?artistTerm=Paul+Kelly
+   [5]: http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?albumTerm=...Nothing+But+A+Dream&artistTerm=Paul+Kelly
+

@@ -1,0 +1,73 @@
+--- 
+wordpress_id: 1662
+layout: post
+title: Prowl
+time: "21:47:02"
+date: 2009-07-07 21:47:02
+tags: 
+- general
+- ruby
+- growl
+wordpress_url: http://schinckel.net/2009/07/07/prowl/
+---
+[Prowl][1] is awesome. [Growl][2] notifications can be forwarded to your iPhone.
+
+But you can get notifications from anywhere. A Perl script is included, but that didn't work on my server. So I wrote one in Ruby:
+    
+    
+{% highlight ruby linenos %}
+#! /usr/bin/ruby
+
+# A ruby class for sending notifications to Prowl.
+
+require 'uri'
+require 'net/http'
+require 'net/https'
+
+class String
+  def urlencode
+    gsub( /[^a-zA-Z0-9\-_\.!~*'()]/n ) {|x| sprintf('%%%02x', x[0]) }
+  end
+end
+
+class Hash
+  def urlencode
+    collect { |k,v| "#{k.to_s.urlencode}=#{v.to_s.urlencode}" }.join('&')
+  end
+end
+
+class Prowler
+  def initialize user, pass
+    @url = URI.parse('https://prowl.weks.net/api/add_notification.php')
+    @username = user
+    @password = pass
+    
+    @http = Net::HTTP.new(@url.host, @url.port)
+    @http.use_ssl = true
+  end
+
+  def send_notification app, evt, desc
+    
+
+    options = {
+      'application' => app,
+      'event' => evt,
+      'description' => desc
+    }
+    
+    req = Net::HTTP::Get.new("#{@url.path}?#{options.urlencode}")
+    req.basic_auth @username, @password
+    @http.request(req)
+  end
+
+end
+
+# How to use?
+# p = Prowler.new('username', 'password')
+# p.send_notification('App','Event','Desc')
+{% endhighlight %}
+    
+
+   [1]: http://prowl.weks.net/
+   [2]: http://growl.info/
+

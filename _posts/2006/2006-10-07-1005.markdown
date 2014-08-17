@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 1005
+layout: post
+title: Getting Older
+time: "09:36:52"
+date: 2006-10-07 09:36:52
+tags: 
+- humour
+wordpress_url: http://schinckel.net/2006/10/07/1005/
+---
+I'll continue my service of linking to the best of [xkcd][1]'s comics: ![Misusing Slang][2] (This comic can be found at [http://xkcd.com/c166.html][3]) (_Updated:_ Missing title.)
+
+   [1]: http://xkcd.com/
+   [2]: http://imgs.xkcd.com/comics/misusing_slang.png
+   [3]: http://xkcd.com/c166.html
+

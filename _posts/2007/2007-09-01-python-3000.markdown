@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 1247
+layout: post
+title: Python 3000
+time: "13:41:56"
+date: 2007-09-01 13:41:56
+tags: 
+- python
+wordpress_url: http://schinckel.net/2007/09/01/python-3000/
+---
+Or Python3.0, as it is also known, has been released, or rather, the first alpha of it has.
+
+It builds okay on OS X, although I'll need to download some stuff to get it to build bsddb and readline, among other things. Since I use these two modules, I'll get them at least.
+
+There are lots of changes in python3.0, including integer division returning floats, and input() being what it should be (instead of having to use raw_input()). print has become a function, and a whole lot of other things have changed. In fact, programs are likely to not run under 3.0 without a rewrite.
+
+I'll keep 2.5 around for a while longer, methinks. Hell, I've still got 2.3 on here, just incase.

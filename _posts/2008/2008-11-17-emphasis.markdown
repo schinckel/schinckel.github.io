@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 1592
+layout: post
+title: Emphasis
+time: "18:59:48"
+date: 2008-11-17 18:59:48
+tags: 
+- humour
+- pedantry
+wordpress_url: http://schinckel.net/2008/11/17/emphasis/
+---
+![fail-owned-quotation-marks-correction-sign-fail.jpg][1]
+
+LMAO.
+
+Via [FAIL blog][2].
+
+   [1]: /images/2008/11/fail-owned-quotation-marks-correction-sign-fail.jpg
+   [2]: http://failblog.org/2008/11/17/sign-win/
+

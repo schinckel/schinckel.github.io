@@ -1,0 +1,30 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<!-- RSS as a "standard" is terrible; use Atom.  -coyled -->
+
+  <channel>
+    <title>Schinckel.net</title>
+    <link>http://schinckel.net/</link>
+    <atom:link href="http://schinckel.net/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Schinckel.net main feed</description>
+    <language>en-us</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</lastBuildDate>
+
+    {% for post in site.posts limit:20 %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>http://schinckel.net{{ post.url }}</link>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
+      <author>matt@schinckel.net (Matthew Schinckel)</author>
+      <guid>http://schinckel.net{{ post.id }}</guid>
+      <description>{{ post.content | xml_escape }}</description>
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>

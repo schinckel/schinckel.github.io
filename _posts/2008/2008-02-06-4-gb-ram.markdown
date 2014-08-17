@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 1350
+layout: post
+title: 4 GB RAM
+time: "20:06:43"
+date: 2008-02-06 20:06:43
+tags: 
+- macbook-pro
+wordpress_url: http://schinckel.net/2008/02/06/4-gb-ram/
+---
+Well, the 4GB of PC2-5300 SO-DIMM RAM I ordered arrived today. I got it very cheap on eBay, and was pretty worried about it. But it all seems pretty stable so far - Rember tells me it is all okay, and it seems to be running smoothly.
+
+Upgrading the RAM in a MacBook Pro is a piece of cake - took less than 5 minutes, including waiting for the machine to shut down and then start up after replacing the sticks. Had three small philips head screws to remove, after taking off the battery. Then the RAM came out fairly easy, and the new sticks were in.
+
+I used the 2x 1G sticks from the laptop to upgrade my Media Centre - the Mac Mini (jens) seems to like the doubling of RAM she got too. Having said that, opening the case up was a bit trickier, but took less than 30 minutes anyway. The longest time was spent trying to figure out why the external HDD wouldn't mount (because I had turned it off), then why it wouldn't turn on (apparently it needs to be connected to a firewire port first).
+
+The extra RAM in my laptop means I can finally run a VMWare machine without having to set aside 15 minutes for the machine to respond enough to be usable. I know this isn't just a problem with the particular VM file, since this is a brand new VM. The old one was even worse! Having said that, I'm not about to use it all of the time. Although once it is running, it goes okay, it still consumes a fair chunk of the RAM.
+
+Speaking of RAM use, I'm running a few Dashboard widgets, a couple of which use up 15MB of RAM each. DoBeDo and iStat widget seem to be the culprits. I think I'll kill DoBeDo - I use Anxiety as my main ToDo viewer, which uses half of the RAM of DoBeDo. It's just nice that whenever I go into Dashboard it's there to remind me. I often use iStat widget just to keep a track on stuff, so that can stay too.

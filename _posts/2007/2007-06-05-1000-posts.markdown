@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 1155
+layout: post
+title: 1000+ posts
+time: "17:13:59"
+date: 2007-06-05 17:13:59
+tags: 
+- asides
+wordpress_url: http://schinckel.net/2007/06/05/1000-posts/
+---
+Well, my blog sneaked past 1000 posts, and I didn't even notice! 

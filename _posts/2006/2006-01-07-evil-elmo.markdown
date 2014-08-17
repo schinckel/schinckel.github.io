@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 603
+layout: post
+title: Evil Elmo?
+time: "17:17:50"
+date: 2006-01-07 17:17:50
+tags: 
+- general
+wordpress_url: http://schinckel.net/2006/01/07/evil-elmo/
+---
+[Boing Boing: More from Evil Elmo][1] This woman is a tool. It clearly (or as clearly as Elmo talks) says: 
+
+> You can SHOUT with Elmo. Woah-oah-oah-aoh. You make Elmo want to shout! Be like Elmo, and Shake your fur out, and Throw your hands up, and Come on now.
+
+I just spent the last week listening to this over and over, but the whole thing. It clearly says "Shake your fur out", not "Shoot your foot off". Sheesh. Some people need to get a life. 
+
+   [1]: http://www.boingboing.net/2006/01/06/more_from_evil_elmo.html
+

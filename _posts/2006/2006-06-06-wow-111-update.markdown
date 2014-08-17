@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 890
+layout: post
+title: WoW 1.11 Update?
+time: "21:48:49"
+date: 2006-06-06 21:48:49
+tags: 
+- wow
+wordpress_url: http://schinckel.net/2006/06/06/wow-111-update/
+---
+It's currently WoW downtime, hence the reason I'm blogging instead of playing, and I'm wondering if the 1.11 update will be required when the servers come back up. The patch has been downloading (or at least trying to download) for about a week now. If they are distributing it, it seems to make sense that it is ready to use. However, being a somewhat newbie to WoW, I don't know whether they work this way, or give a couple of weeks for it to download. The things that make me think it's not going to be installed: firstly, there is no mention of it being implemented this week on the website, or in the forums, or the message that comes up regarding downtime. Secondly, there is a mention of hardware upgrades, for several realms at least (including _Hyjal_, thank god) so it would make sense that they would mention an upgrade of software if it was happening. Finally, not having the hardware and software upgrades at the same time should mean any issues will be easier to track down should they raise their ugly heads in the next few days. There are a couple of reasons I'm really looking forward to the upgrade. The main is that the bug that prevents reconnecting with the same character after a system or application crash, or a modem disconnect will be fixed. The nasty "A character with that name already exists on the server" message should be a thing of the past. Especially important for my monster 15 hour weekend sessions, when my ISP limits my dialup account to 5 hour blocks. Secondly, Druids are getting [Innervate][1] as a spell, rather than a talent. Which should be a very good thing. The only reason I don't want the upgrade yet is that I'm only at 21% downloaded, since I can't use the Background Downloader and play at the same time. And when I'm home, I play. 
+
+   [1]: http://www.wowwiki.com/Innervate
+
+

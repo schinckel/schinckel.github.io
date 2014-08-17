@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 132
+layout: post
+title: Blogpsot!
+time: "02:46:12"
+date: 2004-07-06 02:46:12
+tags: 
+- blogging
+- humour
+wordpress_url: http://schinckel.net/2004/07/06/blogpsot/
+---
+I typed [schinckel.blogpsot.com][1] into my browser, wanting to check out the links I had made, but got the address wrong. Have a look - it's funny if you look at my [post a little while ago][2]. I thought some vengeful god was hacking me. 
+
+   [1]: schinckel.blogpsot.com
+   [2]: http://schinckel.blogspot.com/2004/06/am-i-god-botherer.html
+

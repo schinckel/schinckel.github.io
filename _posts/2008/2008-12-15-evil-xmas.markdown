@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 1623
+layout: post
+title: Evil Xmas
+time: "13:14:07"
+date: 2008-12-15 13:14:07
+tags: 
+- humour
+wordpress_url: http://schinckel.net/2008/12/15/evil-xmas/
+---
+![evilXmas.png][1]
+
+> Finished evil xmas shopping. Bought junk that's the wrong size & color for everyone so waiting in line to exchange is guaranteed. 
+
+   [1]: /images/2008/12/evilxmas.png
+

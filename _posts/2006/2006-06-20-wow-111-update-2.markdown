@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 896
+layout: post
+title: WoW 1.11 Update
+time: "20:13:11"
+date: 2006-06-20 20:13:11
+tags: 
+- asides
+- wow
+wordpress_url: http://schinckel.net/2006/06/20/wow-111-update-2/
+---
+Finally, the 1.11 World of Warcraft update is being applied. Which means all of those things [I mentioned a fortnight ago][1] are finally happening. 
+
+   [1]: http://schinckel.net/2006/06/06/wow-111-update/
+

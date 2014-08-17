@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 121
+layout: post
+title: 512Mb SD Card
+time: "21:56:46"
+date: 2004-10-13 21:56:46
+tags: 
+- palmos
+wordpress_url: http://schinckel.net/2004/10/13/512mb-sd-card/
+---
+I just went shopping for SD cards, expecting to have to pay around $90 for a 256Mb one. My Zire 31 has an SD slot, and I thought I might need more than the measley 16Mb internal RAM it comes with. Anyway, after spending an hour or so searching through every shop in Rundle Mall, I went into Diamond's, on Rundle Street. The girl behind the camera said "Oh, about $105 for the 512, and about $70 for the 256". That put the price as 74 less than a 256 from DJs, for a card with twice the memory. So, I went out, checked out Ted's ($119) and returned. The guy who served me said the computer showed $130ish, but she had quoted me at $105. Since he'd kept me waiting for about 10 min while he dealt with a customer on the phone, he knocked it down to a round $100. Woo-hoo! 

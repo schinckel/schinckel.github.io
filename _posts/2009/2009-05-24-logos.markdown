@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 1660
+layout: post
+title: Logos
+time: "12:23:04"
+date: 2009-05-24 12:23:04
+tags: 
+- general
+- stea
+wordpress_url: http://schinckel.net/2009/05/24/logos/
+---
+Started up a new iPhone app today. The logo at the bottom of the screen looked a bit familiar:
+
+![][1]
+
+Here is the logo from the Adelaide City Council (which has been in use for about 7 years):
+
+![][2]
+
+Wonder which came first...
+
+If I overlay one one the other, we see they are not identical:
+
+![][3]]
+
+   [1]: http://ember.realmacmedia.com/files/8847654464a18b5999e0b9_m.png
+   [2]: http://ember.realmacmedia.com/files/18936119564a18b596aa4a3_m.png
+   [3]: http://ember.realmacmedia.com/files/11752156844a18b7e19014e_m.png
+

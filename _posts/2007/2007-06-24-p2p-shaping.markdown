@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 1175
+layout: post
+title: p2p shaping?
+time: "23:12:48"
+date: 2007-06-24 23:12:48
+tags: 
+- wow
+- wild-it
+wordpress_url: http://schinckel.net/2007/06/24/p2p-shaping/
+---
+Well, I've been sitting on the 10 day demo of the Burning Crusade for a month or two, and have just started downloading the client. 3.5GB, which, maxed out will take a couple of days to download. I have to use the Blizzard Downloader program to get it, and I just discovered that turning off Peer-to-peer Downloading dramatically increases my throughput. I went from 6K/sec to 25K/sec. I wonder if this is to do with p2p shaping thatGoTalk, the people who bought out WildIT, apparently do. 

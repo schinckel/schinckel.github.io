@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 683
+layout: post
+title: Shotza
+time: "18:03:52"
+date: 2006-02-15 18:03:52
+tags: 
+- rants-and-raves
+wordpress_url: http://schinckel.net/2006/02/15/shotza/
+---
+I set up a 'fake' domain to use as testing, I basically made up a word, Shotza, to use. So, I could use it as `http://shotza/` in a podcast - it would remind me that it wasn't really supposed to point to my computer, just as a temporary thing. Anyway, when online tonight, I tried it from within iTunes. It wasn't working. So I tried it in Firefox. `http://shotza/` worked fine, so I tried `http://shotza/rn/` Imagine my surprise when I get transferred to the page: [http://www.ilovedmypet.com/view.asp?id=11753&preview;=yes&warned;=yes][1] How the hell does my browser get hijacked like this? I've never turned on a setting that allows for host names to be used to try and find out what I meant! Is this a Firefox setting somewhere? It doesn't seem to happen in Safariâ€¦I wonder if it could be a hard-coded thing in FireFox? **Update:** It seems to have something to do with Google, as this site is the first hit for a search for _Shotza_. Hmm, how do I turn that off? 
+
+   [1]: http://www.ilovedmypet.com/view.asp?id=11753&preview=yes&warned=yes
+

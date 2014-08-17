@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 361
+layout: post
+title: I am Gonzo.
+time: "18:37:05"
+date: 2005-08-17 18:37:05
+tags: 
+- humour
+wordpress_url: http://schinckel.net/2005/08/17/i-am-gonzo/
+---
+![Gonzo.][1] [The Muppets Personality Test][2]
+
+   [1]: http://www.matthewbarr.co.uk/muppets/images/gonzo.jpg
+   [2]: http://www.matthewbarr.co.uk/muppets/index.htm
+

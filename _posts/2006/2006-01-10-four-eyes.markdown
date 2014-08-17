@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 610
+layout: post
+title: Four eyes
+time: "10:55:54"
+date: 2006-01-10 10:55:54
+tags: 
+- general
+wordpress_url: http://schinckel.net/2006/01/10/four-eyes/
+---
+Ahh! My eyes! ![][1] (From [Mason Inman][2], via [Boing Boing][3])
+
+Don't You Want Me? • [Felix][4] • [The Mix][5]
+
+   [1]: /images/four_eyes_illusion_1.jpg
+   [2]: http://mileshotel.blogspot.com/
+   [3]: http://www.boingboing.net/2006/01/09/headtripping_foureye.html
+   [4]: http://www.google.com/search?q=%22Felix%22
+   [5]: http://www.google.com/search?q=%22The Mix%22
+

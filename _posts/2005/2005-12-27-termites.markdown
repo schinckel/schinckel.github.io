@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 596
+layout: post
+title: Termites!
+time: "15:56:41"
+date: 2005-12-27 15:56:41
+tags: 
+- house
+wordpress_url: http://schinckel.net/2005/12/27/termites/
+---
+We were just about to head off to Robe - literally, we were just packing bags ready to go, when Jaq came across some termites in the linen press. It's a little too hard to tell how widespread the infestation is: the house had been damaged in the past, some time ago (long before we bought it), but we weren't expecting to find any more. So, this has put the holiday on hold for a couple of days - we are having a guy come out for a quote tomorrow at lunchtime, and hopefully will be able to head off shortly after he has been here. 

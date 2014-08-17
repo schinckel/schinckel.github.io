@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 171
+layout: post
+title: Helmut
+time: "23:10:06"
+date: 2005-05-17 23:10:06
+tags: 
+- general
+wordpress_url: http://schinckel.net/2005/05/17/helmut/
+---
+[![Helmetart][1]][2]
+
+We wanted Jason & Sharon to call the boy Helmut, but they chose Max. So I'm posting this image... 
+
+   [1]: /images/helmetart-tm.jpg
+   [2]: /images/helmetart.gif
+

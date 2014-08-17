@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 1236
+layout: post
+title: ecto 3
+time: "16:22:16"
+date: 2007-08-16 16:22:16
+tags: 
+- ecto
+- asides
+wordpress_url: http://schinckel.net/2007/08/16/ecto-3/
+---
+Playing with ecto 3 alpha - looks pretty good so far.
+
+Hopefully it handles the RTF/HTML conversion process a bit better than ecto 2.  
+

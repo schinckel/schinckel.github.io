@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 876
+layout: post
+title: WoW Mac Patch 1.10
+time: "21:16:28"
+date: 2006-04-25 21:16:28
+tags: 
+- wow
+wordpress_url: http://schinckel.net/2006/04/25/wow-mac-patch-110/
+---
+If anyone in Adelaide has downloaded the Macintosh version of the WoW 1.10 patch, and would be kind enough to pop it onto a CD for me (_WoW-1.10.0-enUS-patch.app_), I will gladly collect it from you, and pay you in beer, wine or your chosen liquor. I'm stuck behind a 56k modem, and the wait is killing me. 360Mb before I can even think about playing WoW, and I'm only at 7.13Mb. According to the _Blizzard Downloader_: About 38 hours remaining. 

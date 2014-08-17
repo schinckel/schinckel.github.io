@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 1587
+layout: post
+title: !binary |
+  QnVybuKAokU=
+
+time: "12:26:19"
+date: 2008-11-14 12:26:19
+tags: 
+- cinema
+- movi
+- scifi
+wordpress_url: http://schinckel.net/2008/11/14/burn%e2%80%a2e/
+---
+We all know Wall•E, who cleans up Earth.
+
+This is the story of Burn•E, who does maintenance on the ship:
+
+[http://www.dailymotion.com/swf/k1uCDheC6Itc4PQ1V4&related=1&canvas=medium][1]  
+
+
+   [1]: http://www.dailymotion.com/swf/k1uCDheC6Itc4PQ1V4&related=1&canvas=medium
+

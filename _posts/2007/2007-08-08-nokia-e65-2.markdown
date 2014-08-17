@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 1232
+layout: post
+title: Nokia E65
+time: "00:34:01"
+date: 2007-08-08 00:34:01
+tags: 
+- nokia-e65
+wordpress_url: http://schinckel.net/2007/08/08/nokia-e65-2/
+---
+I'm loving my new Nokia E65. It works with Salling Clicker (which I will register, it is just great!), as well as the Nokia-downloadable iSync plugin. I've also bought nova media's program for installing support for a wide range of phones SMS from Address Book. This too is very cool. I can now send (but not, unfortunately, read) text messages from the comfort of my keyboard. I may write some scripts to automatically send the same SMS to a whole Address Book group. That would be fairly neat. In terms of Salling Clicker and phone events, I've fallen in love with call notification (although, that may be also provided with the nova media plugin I've installed, I'll find out when someone calls me), and proximity notifications. Such as being able to have Adium put me Away when I walk away from my machine. Autolock is also pretty cool. 

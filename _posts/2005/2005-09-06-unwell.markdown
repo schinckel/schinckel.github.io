@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 406
+layout: post
+title: Unwell
+time: "14:11:16"
+date: 2005-09-06 14:11:16
+tags: 
+- general
+wordpress_url: http://schinckel.net/2005/09/06/unwell/
+---
+Those of you who actually know me may know I've been off work for nearly a week: I've had some sort of a viral infection, which resulted in me having horrible head and body aches, sweating and coughing fits. I'm almost all better now (was about to leave for work this mornng at 7:30 when I got all lightheaded and needed to call in sick. Daily Manager wasn't happy - supposed to call in by 7:00am when not coming in), but it really held me down. To the extent I wasn't able to write anything on my blog. For 5 days! 

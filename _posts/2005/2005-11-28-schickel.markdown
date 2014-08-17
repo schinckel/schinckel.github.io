@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 578
+layout: post
+title: Schickel
+time: "18:31:36"
+date: 2005-11-28 18:31:36
+tags: 
+- humour
+- popular
+wordpress_url: http://schinckel.net/2005/11/28/schickel/
+---
+One of my students today told me she had seen a poster for a band named after me. I did a little research (they played at Flinders Uni last Friday), and came up with this poster: ![][1] As you can see, it's pretty close. You can read about this band over on [Music SA][2]'s [Schickel][3] page, or [the Official Schickel Website][4], and even listen to a track. It's not too bad, actually. 
+
+   [1]: /images/Schickel.gif
+   [2]: http://www.musicsa.com.au
+   [3]: http://www.musicsa.com.au/artists/schickel/
+   [4]: http://www.schickel.cc/
+

@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 1229
+layout: post
+title: Heroes
+time: "17:45:58"
+date: 2007-07-27 17:45:58
+tags: 
+- tv
+- asides
+wordpress_url: http://schinckel.net/2007/07/27/heroes/
+---
+I saw the first episode of Heroes when it was first televised here in Australia, and I thought it was quite cool, but I missed the remainder of them. And then I got access to all of the first season (or at least the first 15-odd episodes), and sat down and started watching. I love it. This is a program that really shines when you sit down and watch it in a big block. I would, I'm sure, be very frustrated if I had to wait a full week after the TO BE CONTINUED... that ends each episode. But being able to follow the characters immediately makes it a very enjoyable experience. 

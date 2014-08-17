@@ -1,0 +1,194 @@
+---
+---
+@import 'reset'
+@import 'syntax'
+
+body
+  margin: 12px
+  font-family: "Gill Sans", "Helvetica Neue", sans-serif
+  font-size: 16px
+
+h1, h2, h3, h4, h5, h6
+  font-weight: normal
+  font-family: "American Typewriter", Inconsolata-dz
+
+header.site-header
+  position: fixed
+  top: 0
+  left: 5px
+  right: 5px
+  z-index: 1000
+  background: white
+
+  a
+    border-bottom: none
+  text-align: right
+  h1
+    border-bottom: 2px solid #000
+    margin-bottom: 4px
+    font-family: "American Typewriter", Inconsolata-dz
+    font-size: 36px
+    font-weight: normal
+    padding: 12px 12px 0
+
+  nav li
+    padding-left: 5px
+
+nav ul
+  list-style-type: none
+  li
+    display: inline-block
+
+a
+  text-decoration: none
+  color: #363636
+  &:hover
+    color: #363636
+  &.tag
+    text-decoration: none
+    color: #545454
+    background-color: #ececec
+    padding: 1px 12px
+    border-radius: 12px
+    border: none!important
+    &:hover
+      color: #ececec!important
+      background-color: #969696!important
+      border: none!important
+
+p
+  padding-bottom: 18px
+  color: #3D3D3D
+  line-height: 1.25
+
+p, .dsq-comment-text
+  a
+    border-bottom: 1px dotted #363636
+
+
+article.post, article.page, article.project
+  padding: 25px 75px 12px 75px
+  color: #3D3D3D
+  max-width: 1000px
+  min-width: 640px
+  clear: both
+  border-top: 1px solid silver
+  margin: auto
+  &:first-child
+    border-top: none
+    padding-top: 75px
+
+  sidebar.meta
+    text-align: left
+    float: right
+    margin-left: -200px
+    width: 200px
+    padding:
+      bottom: 25px
+    ul
+      position: relative
+      li
+        display: block
+        padding: 4px
+        &.tag
+          display: inline-block
+    .date, .time
+      color: #999
+
+  header.title
+    border-bottom-style: dotted
+    border-bottom-width: 1px
+    border-bottom-color: silver
+    padding-bottom: 6px
+    margin-bottom: 18px
+    h2
+      font-size: 22px
+      display: inline-block
+      font-weight: normal
+
+  section.body
+    margin-right: 225px
+    h2, h3
+      font-size: 18px
+      color: black
+      padding-bottom: 6px
+
+    hr
+      width: 50%
+    a
+      color: #111
+      text-decoration: none
+      &:hover
+        color: #666666
+        border-bottom: 1px dotted #666666
+
+    ul
+      list-style: disc outside
+    ol
+      list-style: decimal outside
+    ul, ol
+      padding:
+        left: 22px
+    & > ul, & > ol
+      padding-bottom: 18px
+
+article.tag-list
+  ul
+    text-align: justify
+    li
+      display: inline-block
+      padding: 5px
+
+
+.content
+  footer
+    clear: both
+    border-top: 1px solid silver
+    a
+      display: inline-block
+      &.prev
+        float: left
+      &.next
+        float: right
+
+#disqus_thread
+  padding-top: 25px
+
+em
+  font-style: italic
+
+strong
+  font-weight: bold
+
+blockquote
+  padding: 8px
+  font-style: italic
+
+code
+  font-family: Inconsolata-dz
+  font-size: 12px
+  color: #666
+  background: #eee
+
+div.twitter-tweet-rendered
+  clear: none!important
+  padding-bottom: 18px
+  margin: 0!important
+
+iframe.strava
+  position: fixed
+  top: -1px
+  height: 48px
+  z-index: 10000
+  width: 199px
+  left: -115px
+
+  &:hover
+    height: 454px
+    width: 300px
+    top: 0
+    left: 0
+    -webkit-transition-property: height, width
+    -webkit-transition-duration: 0.25s
+    transition-property: height, width
+    transition-duration: 0.25s

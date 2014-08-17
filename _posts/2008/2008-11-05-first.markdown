@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 1583
+layout: post
+title: First.
+time: "21:09:02"
+date: 2008-11-05 21:09:02
+tags: 
+- politics
+- usa
+wordpress_url: http://schinckel.net/2008/11/05/first/
+---
+The thumbnail kind of spoils the impact of the image, but oh well...
+
+[![november-4-2008.jpg][1]][2]
+
+Via twitter, but I can't remember who!
+
+   [1]: /images/2008/11/november-4-2008-tm.jpg
+   [2]: /images/2008/11/november-4-2008.jpg
+

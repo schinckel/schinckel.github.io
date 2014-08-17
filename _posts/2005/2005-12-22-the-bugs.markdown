@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 595
+layout: post
+title: The Bugs!!!
+time: "13:47:16"
+date: 2005-12-22 13:47:16
+tags: 
+- humour
+- food
+wordpress_url: http://schinckel.net/2005/12/22/the-bugs/
+---
+[Tauquil's Blog | The Bugs are Haunting Me][1] Scary stuff going on here! 
+
+   [1]: http://tauquil.com/archives/2005/09/12/73/
+

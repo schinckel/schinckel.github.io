@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 988
+layout: post
+title: Corgi
+time: "15:58:05"
+date: 2006-09-28 15:58:05
+tags: 
+- humour
+wordpress_url: http://schinckel.net/2006/09/28/corgi/
+---
+![Corgi licking Peanut Butter jar][1] From: [xkcd forums][2]. 
+
+   [1]: http://www.uploadfile.info/uploads/297fa961a2.jpg
+   [2]: http://forums.xkcd.com/viewtopic.php?t=231
+

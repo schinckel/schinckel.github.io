@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 44
+layout: post
+title: Meow!
+time: "02:18:35"
+date: 2005-03-12 02:18:35
+tags: 
+- itunes
+- languages
+wordpress_url: http://schinckel.net/2005/03/12/meow/
+---
+Using the program [Meow][1], it's possible to see what notifications different programs give to the system - things like changing the menu-bar, that the menu was activated, and in iTunes, that the song has changed. Yes, you heard right - there will be no need to poll the system every _n_ seconds to see if the song is the same! Or if the song is paused! Now I just need to find out how to discover these notifications, and act upon them. 
+
+   [1]: http://www.macupdate.com/info.php/id/17448
+

@@ -1,0 +1,31 @@
+--- 
+wordpress_id: 60
+layout: post
+title: RSS Feeds
+time: "01:56:04"
+date: 2005-02-14 01:56:04
+tags: 
+- general
+wordpress_url: http://schinckel.net/2005/02/14/rss-feeds/
+---
+I really like RSS as a technology. For the uninitiated, instead of checking a web-site to see if something is updated, or having an email account, you have an XML file that keeps the most up-to-date data in it, and this file can be downloaded (if it has changed since the last check) and the new entries can be easily displayed. I have about 55 feeds I currently subscribe to, including: 
+
+  * [Adelaide Airport, Australia Weather][1]
+  * [CSTA][2] (Central Scorpions Touch Association)
+  * [New Scientist][3]
+  * [Dilbert][4]
+  * [MacOSX Hints][5]
+
+As you can see, they vary between news sites, blogs, cartoons and weather reports. The great thing about them is that, unlike email, if you miss a couple of days, (depending on the feed length) you just skip that stuff, and go onto the newer entries. Of course, for some things email is still more appropriate. What I'd really like to see are the following: 
+
+  * A feed for my bank account: a list of latest transactions. This would enable me to keep a close check on how much money I'm spending, and allow me to spot fraud fairly quickly.
+  * A feed for new (for instance) books at the library that I might be interested in.
+
+The difference between the like-to feeds is the individualisation. RSS now allows for authorisation on feeds, this would allow me (and only me) to access certain feeds, while, if I am too busy (on holidays, for instance) I just miss that news. Still, I'm waiting for my libraries to actually email me when a) my books are overdue, and b) my reservations have come in. Surely b) would save them a heap of money: since they post out notices in the mail whenever a book arrives... 
+
+   [1]: http://www.rssweather.com/icao/YPAD/rss.php?config=&forecast=zandh&icao=YPAD&alt=rss20a (Adelaide Airport, Australia Weather)
+   [2]: http://csta.blogspot.com/atom.xml (CSTA)
+   [3]: http://www.newscientist.com/syndication/news.rdf (New Scientist)
+   [4]: http://dwlt.net/tapestry/dilbert.rdf (Dilbert)
+   [5]: http://www.macosxhints.com/backend/geeklog.rdf (MacOSX Hints)
+

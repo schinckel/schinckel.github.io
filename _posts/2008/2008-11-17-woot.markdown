@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 1596
+layout: post
+title: WOOT!
+time: "20:56:09"
+date: 2008-11-17 20:56:09
+tags: 
+- hardware
+wordpress_url: http://schinckel.net/2008/11/17/woot/
+---
+I seriously, seriously Want One Of These:
+
+  
+![51dmPeiGT2L._SL500_AA280_.jpg][1]
+
+(via Twitter [@fraserspeirs][2], available from [Amazon][3])
+
+   [1]: /images/2008/11/51dmpeigt2l-sl500-aa280.jpg
+   [2]: http://twitter.com/fraserspeirs/status/1009312998
+   [3]: http://www.amazon.co.uk/Wenger-Swiss-Army-Giant-Knife/dp/B000R0JDSI/ref=wl_it_dp?ie=UTF8&coliid=I2R3FXJCDK0UG4&colid=36ROE1EKF7XFD
+

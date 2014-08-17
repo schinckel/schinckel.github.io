@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 1178
+layout: post
+title: Mormon
+time: "19:38:25"
+date: 2007-06-29 19:38:25
+tags: 
+- humour
+- myths-and-legends
+wordpress_url: http://schinckel.net/2007/06/29/mormon/
+---
+Love this image. ![I can'tâ€¦ I'm Mormon][1] It looks like she really wants to, as well... (Flickr, via [Limbicnutrition][2]) 
+
+   [1]: http://farm2.static.flickr.com/1007/637661651_fb05907f0d_m.jpg
+   [2]: http://www.limbicnutrition.com/blog/
+

@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 550
+layout: post
+title: Nokia 6101 Issues
+time: "18:13:41"
+date: 2005-11-07 18:13:41
+tags: 
+- nokia-6101
+wordpress_url: http://schinckel.net/2005/11/07/nokia-6101-issues/
+---
+I'm not having any real issues with my new phone, but these are the things I'd like to be able to change: 
+
+  * It'd be great to be able to Sync with my Mac Address Book.
+  * Camera shutter sound is very loud. Will need to disable it. [Done.][1]
+  * PTT button is a waste of space. Would like to remap it to something else.
+  * Need a blank operator logo. Had one for the 6610, and it was great. [Done.][2]
+  * Front screen is lower in colour depth. Images look bad.
+  * Some photos don't transfer across properly - they cannot be opened when copied to the phone.
+  * Memory isn't very large (&lt;3Mb).
+  * The Optus image on the mini screen when it's open sucks.
+
+   [1]: http://schinckel.net/2005/11/07/disable-shutter-sound-in-nokia-6101/
+   [2]: http://schinckel.net/2005/11/07/remove-operator-logo/
+

@@ -1,0 +1,19 @@
+# Site settings
+title: Schinckel.net
+email: matt@schinckel.net
+description: Schinckel.net
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: schinckel
+github_username:  schinckel
+bitbucket_username: schinckel
+paginate: 10
+permalink: /:year/:month/:day/:title/
+archive:
+    layouts:
+        yearly: paginated-post
+        monthly: paginated-post
+        daily: paginated-post
+
+# Build settings
+markdown: kramdown

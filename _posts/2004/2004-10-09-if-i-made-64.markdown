@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 125
+layout: post
+title: If I Made 64...
+time: "22:21:33"
+date: 2004-10-09 22:21:33
+tags: 
+- general
+wordpress_url: http://schinckel.net/2004/10/09/if-i-made-64/
+---
+John Lennon would have [turned 64 Yesterday][1], (all my troubles...), if he hadn't been gunned down in 1980 by Mark Chapman. An [article][2] linked to made a mention of Chapman attempting suicide at some stage - and it made me think about what might have changed in the world had this one man, who changed history, not had his chance? I was looking for a topic for my [NaNoWriMo][2] novel, perhaps this could be it... 
+
+   [1]: http://news.bbc.co.uk/1/hi/entertainment/music/3725878.stm
+   [2]: http://news.bbc.co.uk/1/hi/entertainment/music/3719204.stm
+

@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 1241
+layout: post
+title: ... is the new ...
+time: "16:44:26"
+date: 2007-08-27 16:44:26
+tags: 
+- humour
+wordpress_url: http://schinckel.net/2007/08/27/is-the-new/
+---
+In a comment to [ongoing · Pantone’s Missed Chance][1]: 
+
+> "Pantone 7547 is the new Pantone 7413."
+
+That would be one of the funniest [isthenewisms][2] I have heard. By the way, I just made that word up. They feel a bit like a metaphor, but I think with the humourous context to which it is applied, that no longer makes sense. In many cases, isthenewisms are [paralogisms][3]. Yes, I looked that up, too. It got me thinking, though, and I did a bit of Googling. [Leisure Arts][4] has a pretty cool diagram from 2005, which has a whole range of these. Some highlights: 
+
+  * gin is the new vodka
+  * Java is the new COBOL
+  * nepotism is the new polio (What the fuck does this mean?)
+
+Apparently, and I'm quoting [Wikipedia][5] here, the catch phrase started in 1963 with "Pink is the black of India", and by the 1980s, it had become "... is the new black". Also, according to Wikipedia, these are called [Snowclones][6], where they are misquoted, abused and so on. As well as ... is the new ..., there is also "All your ... are belong to us", and "... or bust". Man, this millennium is great. It would have taken me all day to find that out when I was still at Uni, let alone at school. Google is the new, well, Google. • 
+
+  1. _ Pantone 7547 __ is the new __ Pantone 7413 _: if you can't see my colours, then (almost) black is the new orange. Not sure if the author meant for this to be the other way around!
+  2. _nepotism is the new polio_ : I've searched, and the only reference I can find is to this chart!
+
+   [1]: http://www.tbray.org/ongoing/When/200x/2007/08/26/Pantone
+   [2]: http://www.google.com/search?hl=en&client=safari&rls=en&q=isthenewisms&btnG=Search
+   [3]: http://www.thefreedictionary.com/paralogisms
+   [4]: http://thediagram.com/6_3/leisurearts.html
+   [5]: http://en.wikipedia.org/wiki/The_new_black
+   [6]: http://en.wikipedia.org/wiki/Snowclone
+

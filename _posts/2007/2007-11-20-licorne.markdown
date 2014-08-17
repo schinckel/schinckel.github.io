@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 1283
+layout: post
+title: Licorne
+time: "08:49:56"
+date: 2007-11-20 08:49:56
+tags: 
+- general
+- physics
+wordpress_url: http://schinckel.net/2007/11/20/licorne/
+---
+Back in 1970, the French Government tested a heap of Nuclear weapons on atolls in the pacific. This photograph is allegedly one test on the island of Licorne.
+
+This photograph looks so much like a painting it is amazing.
+
+![][1]
+
+> (From [Licorne (Monoscope)][2]) 
+
+   [1]: /images/2007/11/www.etre.com-images-blog-frenchnucleartests.jpg
+   [2]: http://www.monoscope.com/2007/11/licorne.html
+

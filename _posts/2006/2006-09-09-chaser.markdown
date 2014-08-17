@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 952
+layout: post
+title: Chaser
+time: "16:43:03"
+date: 2006-09-09 16:43:03
+tags: 
+- tv
+wordpress_url: http://schinckel.net/2006/09/09/chaser/
+---
+Well, last night was the final episode of The Chaser's War on Everything. Those of you who missed this series should rush to your nearest Torrent-site and grab it all. I missed a fair chunk of it, and so when they started Vodcasting it, I subscribed to the feed. However, the quality of the video available from the ABC website is crap, to say the least. So, I've begun downloading all episodes, even 22-28, which I have as vodcasts. However, episode 17 is missing. I've found a torrent for it, but noone seems to be seeding it. I've got episodes 1-14 complete, and partway through 15, 16 and 18. At 235Mb per episode, it's fairly slow going. But it most certainly is worth it. As for legality issues - I can't get reasonable ABC reception in my house, so I feel perfectly justified in doing this. I have a right, after all, to view stuff on the ABC. 

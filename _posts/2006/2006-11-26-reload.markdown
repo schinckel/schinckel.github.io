@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 1056
+layout: post
+title: Reload!
+time: "12:35:01"
+date: 2006-11-26 12:35:01
+tags: 
+- humour
+wordpress_url: http://schinckel.net/2006/11/26/reload/
+---
+![Reload][1] via [xkcd][2]. 
+
+   [1]: http://imgs.xkcd.com/comics/reload.png
+   [2]: http://xkcd.com/c188.html
+

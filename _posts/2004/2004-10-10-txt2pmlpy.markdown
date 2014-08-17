@@ -1,0 +1,39 @@
+--- 
+wordpress_id: 779
+layout: post
+title: txt2pml.py
+time: "20:42:35"
+date: 2004-10-10 20:42:35
+tags: 
+- palmos
+- python
+wordpress_url: http://schinckel.net/2004/10/10/txt2pmlpy/
+---
+I found a heap of Palm _TEXt REAd_ documents, but I don't like the way they appear as (Doc) in [PalmReader][1]. So I wrote a [script][2] to convert them to [PML][3], the format used by [DropBook][4] to make _PNRd PPrs_ documents.
+
+Basically, I found that on OS X the translation of [txt2pdbdoc][5] -d (decode back into text) wasn't so good; a heap of characters needed to be changed.
+
+I did have them all listed here, but if I edit them, ecto fucks up the encoding!
+
+I also changed the `===` to an 80% horizontal line.
+
+The `[[[ - ]]]` blocks were indented, and a footer line `[* <Text>]` is indented also.
+
+I assumed the only use of a `/` was for italics, and `_` for underlining.
+
+I also assume the first non-empty, non `===` line is the Title, and the Author line starts with By. I use this info to create a 'Title Page'.
+
+The tricky bit was getting the Chapter Heading sorted, I needed to break the text into a list of strings to do this, and scan through. This slows the script down a lot, but it still works okay. I might profile it a bit and see where the slowdown is.
+
+Anyway, here's the latest version I've uploaded: [txt2pml.py  
+][2]
+
+I plan to make a version to process [Project Gutenberg][6] texts, but that's on the back burner.
+
+   [1]: http://www.palmdigitalmedia.com/products/palmreader/free
+   [2]: http://members.optusnet.com.au/~matt.schinckel/files/txt2pml.py
+   [3]: http://www.palmdigitalmedia.com/dropbook/pml
+   [4]: http://www.palmdigitalmedia.com/dropbook
+   [5]: http://www.google.com/search?ie=UTF-8&oe=UTF-8&q=txt2pdbdoc
+   [6]: http://promo.net/pg/
+

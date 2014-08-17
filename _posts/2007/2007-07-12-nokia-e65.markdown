@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 1195
+layout: post
+title: Nokia E65
+time: "10:05:26"
+date: 2007-07-12 10:05:26
+tags: 
+- phone
+- asides
+wordpress_url: http://schinckel.net/2007/07/12/nokia-e65/
+---
+I'm really liking the look of the Nokia E65 as my next phone. It has WiFi, Bluetooth, and Nokia also supply an iSync plugin. And it works with Salling Clicker, which looks like the must have phone/Mac interface program. Edit: Had N65 in the body, meant E65. 

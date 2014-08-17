@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 1507
+layout: post
+title: Xcode 3.1
+time: "16:21:16"
+date: 2008-07-16 16:21:16
+tags: 
+- programming
+- xcode
+wordpress_url: http://schinckel.net/2008/07/16/xcode-31/
+---
+I finally got around to updating Xcode to 3.1 yesterday.
+
+There's some great stuff in there. At last, the autocomplete of method names puts in tokens for the arguments, so you can just click on the token and then overtype - or just delete it in one go with (forward) delete.
+
+Another cool thing is something that I've seen in NetBeans, but the default settings there for it are just annoying. Previous instances of the currently selected variable are highlighted. In Xcode it is a much subtler underline, much better than bright yellow.
+
+This is better than NetBeans in another way - you can click on the item, and access a special contextual menu that allows you to edit every instance of the variable name in your current scope. Thus, refactoring is made much easier.
+
+I'm sure there was something else I really liked too, but I can't recall what it was.
